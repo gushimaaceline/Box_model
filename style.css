@@ -1,0 +1,35 @@
+
+body{
+    font-size: 19px;  
+}
+
+h3{
+    color: darkorchid;
+    font-size:x-large;   
+}
+
+.box1{
+width: 400px; 
+padding: 20px;
+margin: 20px;
+border: 2px solid rgb(255, 2, 2);
+font-size: 20px;
+background-color: gray;
+
+}
+.box2 {
+ background-image: url(./Images/Brain\ storming.jpg); 
+ background-size: cover;
+ background-repeat:repeat;
+
+padding: 60px;
+height: 300px;
+width: 300px; 
+border: 15px solid rgb(245, 151, 29);
+margin: 20px;
+font-size: 20px;
+font-weight: bolder;
+
+}
+
+
